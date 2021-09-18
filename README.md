@@ -1,7 +1,7 @@
 <h3><code>Hello Everyone! 👋<br/></code></h3>
 <h3><code>Welcome to my GitHub Space! <br/></code></h3>
 
-I am Hritam Basak, serving as a Data Scientist at TATA Digital. I have completed my undergraduate from the Department of Electrical Engineering, Jadavpur University, India (2017-21). I work on Deep Learning applications for Computer Vision applications with a focus on Medical Image Analysis. I primarily code in Python and use the PyTorch, Keras and TensorFlow, Scikit libraries for deep learning and machine learning problems. I use MATLAB occassionally. Check out my [Google Scholar](https://scholar.google.com/citations?user=29wTOh4AAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications. I am also a reviewer for notable peer-reviewed journals ([Publons Profile](https://publons.com/researcher/4421672/hritam-basak))
+I am Hritam Basak, working as a Data Scientist at TATA Digital. I have completed my undergraduate from the Department of Electrical Engineering, Jadavpur University, India (2017-21). I work on Deep Learning applications for Computer Vision applications with a focus on Medical Image Analysis. I primarily code in Python and use the PyTorch, Keras and TensorFlow, Scikit libraries for deep learning and machine learning problems. I use MATLAB occassionally. Check out my [Google Scholar](https://scholar.google.com/citations?user=29wTOh4AAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications. I am also a reviewer for notable peer-reviewed journals ([Publons Profile](https://publons.com/researcher/4421672/hritam-basak))
 
 [ResearchGate](https://www.researchgate.net/profile/Hritam-Basak)/[ORCiD](https://orcid.org/0000-0001-5921-1230)
 
