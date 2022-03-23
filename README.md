@@ -5,7 +5,7 @@ I am Hritam Basak, working as a Data Scientist at TATA Digital. I have completed
 
 [ResearchGate](https://www.researchgate.net/profile/Hritam-Basak)/[ORCiD](https://orcid.org/0000-0001-5921-1230)
 
-!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritam-98))--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritam-98))
 
 ![Hritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritam-98&count_private=true&show_icons=true&theme=radical)
 
