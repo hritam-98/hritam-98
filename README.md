@@ -12,6 +12,6 @@ I am Hritam Basak, working as a Data Scientist at TATA Digital. I have completed
 
 # Reach Me:
 - [hritambasak48[at]gmail[dot]com](mailto:hritambasak48@gmail.com) (Preferred)
-- [hritam.basak[at]tatadigital[dot]com](mailto:hritam.basak@tatadigital.com) (for industrial collaboration) 
+- [hbasak[at]cs[dot]stonybrook[dot]edu](mailto:hbasak@cs.stonybrook.edu) (for collaboration) 
 - [Webpage](https://hritam-98.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/hritam-basak-a66114166/)
