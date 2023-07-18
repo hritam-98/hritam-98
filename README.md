@@ -37,7 +37,19 @@ I have completed my undergraduate from the Department of Electrical Engineering,
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/hritam-basak-a66114166/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
 
 ---
-
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=hritam-98&show_icons=true&hide_border=true"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritam-98&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+    />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritam-98&hide_border=true" height="180em" />
+</p>
 
 # Reach Me:
 - [hritambasak48[at]gmail[dot]com](mailto:hritambasak48@gmail.com) (Preferred)
