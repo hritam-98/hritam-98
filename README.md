@@ -15,7 +15,7 @@ I have completed my undergraduate from the Department of Electrical Engineering,
 
 [ResearchGate](https://www.researchgate.net/profile/Hritam-Basak)/[ORCiD](https://orcid.org/0000-0001-5921-1230)
 
-<p align='center'>![Hritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritam-98&count_private=true&show_icons=true&theme=radical)</p>
+![Hritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritam-98&count_private=true&show_icons=true&theme=radical)
 
 ### **Languages and Tools:**  
 
