@@ -4,13 +4,6 @@
   <a href="https://www.linkedin.com/in/hritam-basak-a66114166/">
     <img align="center" alt="Hritam's LinkedIN" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&ensp;
-<!--  <a href="https://sourcerer.io/sparsh-99/">
-    <img align="center" alt="Sparsh's Sourcerer" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sahibinden.svg" />
-  </a>&ensp;
--->
-<!--   <a href="https://www.instagram.com/sparsh_garg99/">
-    <img align="center" alt="Sparsh's Instagram" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>&ensp; -->
   <a href="https://scholar.google.com/citations?user=29wTOh4AAAAJ&hl=en">
     <img align="center" alt="Hritam Basak | Google Scholar" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
   </a>&ensp;
@@ -28,7 +21,6 @@
 
 ### **Languages and Tools:**  
 
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666041-81a3eb00-eb17-11ea-8142-a049c30b3083.png"></code>
 <code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666227-ba908f80-eb18-11ea-9118-fdc1a845195b.png"></code>
