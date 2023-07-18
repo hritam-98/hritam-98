@@ -17,6 +17,27 @@ I have completed my undergraduate from the Department of Electrical Engineering,
 
 ![Hritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hritam-98&count_private=true&show_icons=true&theme=radical)
 
+### **Languages and Tools:**  
+
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666041-81a3eb00-eb17-11ea-8142-a049c30b3083.png"></code>
+<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666227-ba908f80-eb18-11ea-9118-fdc1a845195b.png"></code>
+<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666238-ced48c80-eb18-11ea-8279-66d4fbc90cc3.png"></code>
+<code><img height="38" src="https://user-images.githubusercontent.com/56729873/91666250-e14ec600-eb18-11ea-81e4-59f2a65ff0aa.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" margin-top="10px"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="38" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code><br>
+
+### Github Profile Trophy
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sparsh-99&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
+
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/hritam-basak-a66114166/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+
+---
+
 
 # Reach Me:
 - [hritambasak48[at]gmail[dot]com](mailto:hritambasak48@gmail.com) (Preferred)
