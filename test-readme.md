@@ -14,7 +14,7 @@
   <a href="https://scholar.google.com/citations?user=29wTOh4AAAAJ&hl=en">
     <img align="center" alt="Hritam Basak | Google Scholar" height="30px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
   </a>&ensp;
-  <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=hritam-98.visitor-badge">
+  <img height="20" align='center' src="https://visitor-badge.laobi.icu/badge?page_id=hritam-98" alt="visitor badge"/>
 </p>
 <br />
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
